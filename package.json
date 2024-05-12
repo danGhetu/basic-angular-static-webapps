@@ -13,6 +13,9 @@
     "swa:deploy": "swa login"
   },
   "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+},
   "dependencies": {
     "@angular/animations": "~13.2.5",
     "@angular/common": "~13.2.5",
